@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Engine.Material Name="Oven"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=1.000000,G=0.000000,B=0.000000,A=0.000000)
+      MaterialExpressionEditorX=-139
+      MaterialExpressionEditorY=103
+      MaterialExpressionGuid=39DA02AD462061C0E928B091578F1716
+      Material=Material'"Oven"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"')
+   Expressions(0)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=9CDECCF649A1A9DD981F32A28886B209
+   CachedExpressionData=(QualityLevelsUsed=(False,True,False))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=3908D60E47703B63C3C9C782BC564296
+End Object
