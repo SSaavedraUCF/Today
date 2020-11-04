@@ -1,0 +1,467 @@
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Base_Color.uasset" 0
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Metallic.uasset" 1
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Normal.uasset" 2
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_DinnerTable.uasset" 3
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_DinnerTable.uasset" 4
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Dream_World/Rotator.uasset" 5
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Rotator.uasset" 6
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 7
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Interact_Talk.uasset" 8
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_DialogueBox.uasset" 9
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Meshes/CubeMaterial.uasset" 10
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Meshes/1M_Cube.uasset" 11
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/BP_TestCube.uasset" 12
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Interact_Speak.uasset" 13
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/DialogueStructure.uasset" 14
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/CSV_TestDialogue.uasset" 15
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Interact_Text.uasset" 16
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/NPC.uasset" 17
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/DialogueBlackBoard.uasset" 18
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_Response.uasset" 19
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_ChoiceList.uasset" 20
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_DialogueBox2.uasset" 21
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_DialoguePH.uasset" 22
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/AskQuestion.uasset" 23
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/DisplayLine.uasset" 24
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/NPC_AI.uasset" 25
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/EndDialogue.uasset" 26
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/InventoryUI/UI_HUD.uasset" 27
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/MyPlayerController.uasset" 28
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 29
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 30
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 31
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 32
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 33
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonRun.uasset" 34
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 35
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 36
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 37
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Observe.uasset" 38
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Interact_Interface_Pickup.uasset" 39
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Item_Structure.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 41
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 42
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 43
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 44
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 45
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 46
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 47
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 48
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 49
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 50
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 51
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 52
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 53
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 54
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 55
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 56
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 57
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 58
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 59
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/InventoryBP.uasset" 60
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Slot_Structure.uasset" 61
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Item.uasset" 62
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/InventoryUI/UI_Inventory_Slot.uasset" 63
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/InventoryUI/UI_Inventory_Window.uasset" 64
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/AC_Inventory.uasset" 65
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/MyHappyEndingRegular-Lx7G.uasset" 66
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/MyHappyEndingRegular-Lx7G_Font.uasset" 67
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/W_PauseMenu.uasset" 68
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/AdvancedDBP.uasset" 69
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 70
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartDialogue.uasset" 71
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Dream.uasset" 72
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Finished.uasset" 73
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/CheckResponse.uasset" 74
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Flowers.uasset" 75
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Trash.uasset" 76
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Trashed.uasset" 77
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_WaitTrash.uasset" 78
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/BP_NPC_PH.uasset" 79
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/BehaviorChange.uasset" 80
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/StartCube_Start.uasset" 81
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/Whit_Annoyed.uasset" 82
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/Whit_Pleased.uasset" 83
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Start_NPC.uasset" 84
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/Dialogue_Tree.uasset" 85
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/TeleportPlayer.uasset" 86
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/TeleportPlayer_New.uasset" 87
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Daco_4061145.uasset" 88
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Item_Sphere.uasset" 89
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/Material_Change.uasset" 90
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/OAK-2.uasset" 91
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/OAK-2_Mat.uasset" 92
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/BP_Trigger_Test.uasset" 93
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/OAK-1.uasset" 94
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/OAK-1_Mat.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 96
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 97
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 98
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 99
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Material_Change/SM_MatTestBox.uasset" 100
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/lambert1.uasset" 101
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Height.uasset" 102
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Normal_OpenGL.uasset" 103
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Roughness.uasset" 104
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Height.uasset" 105
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Normal_OpenGL.uasset" 106
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Roughness.uasset" 107
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Height.uasset" 108
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Normal_OpenGL.uasset" 109
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table/DinnerTable_Roughness.uasset" 110
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Height.uasset" 111
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Normal_OpenGL.uasset" 112
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Roughness.uasset" 113
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Height.uasset" 114
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Normal_OpenGL.uasset" 115
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Roughness.uasset" 116
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Height.uasset" 117
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Normal_OpenGL.uasset" 118
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Roughness.uasset" 119
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Height.uasset" 120
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Normal_OpenGL.uasset" 121
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Roughness.uasset" 122
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Laura/Outlines_M.uasset" 123
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Laura/Outlines_M_Inst.uasset" 124
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 125
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 126
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/DalogueBP.uasset" 127
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/FinalBP.uasset" 128
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter_PauseCode.uasset" 129
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/houseinterior.uasset" 130
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/PT_HouseInteriorWB_BuiltData.uasset" 131
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/houseinterior_BuiltData.uasset" 132
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/NeighborhoodWB.uasset" 133
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/teleport.uasset" 134
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/coffeetable.uasset" 135
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/kitchen_sink.uasset" 136
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Laura/CellShadingMat.uasset" 137
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Laura/CellShadingMat_Inst.uasset" 138
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/CellShadingMat_Inst.uasset" 139
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/house1.uasset" 140
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/house2.uasset" 141
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/house3.uasset" 142
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/house4.uasset" 143
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 144
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 145
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 146
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 147
+"../../../Engine/Content/BasicShapes/Cone.uasset" 148
+"../../../Engine/Content/BasicShapes/Cube.uasset" 149
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 150
+"../../../Engine/Content/BasicShapes/Plane.uasset" 151
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 152
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 153
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 154
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 155
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 156
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 162
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 163
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 164
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 168
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 169
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 170
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 171
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 172
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 173
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 174
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 175
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 176
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 177
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 178
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 179
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 180
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 181
+"../../../Engine/Content/EditorResources/S_Note.uasset" 182
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 183
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 184
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 185
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 186
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 187
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 188
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 189
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 190
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 191
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 192
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 205
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 206
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 207
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 210
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 211
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 221
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 225
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 228
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 229
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 230
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 232
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 233
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 234
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 236
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 241
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 242
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 243
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 244
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 245
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 246
+"../../../Engine/Content/EngineResources/Black.uasset" 247
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 248
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 249
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 250
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 251
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 252
+"../../../Engine/Content/EngineSounds/Master.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 255
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 256
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 257
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 258
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 259
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 277
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 278
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 279
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 280
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 281
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 282
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 283
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 285
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 286
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 288
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 289
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 290
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 291
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 292
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 293
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 294
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 295
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 296
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 297
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 298
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 299
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 303
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 304
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 305
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 306
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 307
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/W_ObserverBox.uasset" 308
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/BP_DescriptiveObject.uasset" 309
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 310
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 311
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 312
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 313
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 314
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 315
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 316
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 317
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Dream_World/BP_Sky_Sphere_Dream.uasset" 318
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Dream_World/Dream_World_Platformer_BuiltData.uasset" 319
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Base_Color.uasset" 320
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Metallic.uasset" 321
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Cabinets/Cabinets_Normal.uasset" 322
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Cabinets.uasset" 323
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Base_Color.uasset" 324
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Metallic.uasset" 325
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Counters/Counters_Normal.uasset" 326
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Counters.uasset" 327
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Base_Color.uasset" 328
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Metallic.uasset" 329
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Dinner_Table_Chair/DinnerTableChair_Normal.uasset" 330
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_DinnerTableChair.uasset" 331
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Base_Color.uasset" 332
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Metallic.uasset" 333
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Refrigerator/Refrigerator_Normal.uasset" 334
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Refrigerator.uasset" 335
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Base_Color.uasset" 336
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Metallic.uasset" 337
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Rug/Rug_Normal.uasset" 338
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Rug.uasset" 339
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Base_Color.uasset" 340
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Metallic.uasset" 341
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Stove/Stove_Normal.uasset" 342
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Stove.uasset" 343
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Meshes/TemplateFloor.uasset" 344
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Eve_BaseColor.uasset" 345
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Eve_Normal.uasset" 346
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Eve_OcclusionRoughnessMetallic.uasset" 347
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Character/Mat_Character_Eve.uasset" 348
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Character/Character_Eve_1.uasset" 349
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Whitney_BaseColor.uasset" 350
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Whitney_Normal.uasset" 351
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Character/Mat_Character_Whitney_OcclusionRoughnessMetallic.uasset" 352
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Character/Mat_Character_Whitney.uasset" 353
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Character/Character_Whitney_1.uasset" 354
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_Cabinets.uasset" 355
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_Counters.uasset" 356
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_DinnerTableChair.uasset" 357
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_Refrigerator.uasset" 358
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_Rug.uasset" 359
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Environment_Stove.uasset" 360
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_Plantkitchen1_lambert1_BaseColor.uasset" 361
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_Plantkitchen1_lambert1_Normal.uasset" 362
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_Plantkitchen1_lambert1_Roughness.uasset" 363
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Prop_Plantkitchen1.uasset" 364
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Prop_Plantkitchen1.uasset" 365
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_TV2_LP_defaultMat_BaseColor.uasset" 366
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_TV2_LP_defaultMat_Normal.uasset" 367
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_TV2_LP_defaultMat_Roughness.uasset" 368
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Prop_TV1_LP.uasset" 369
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Prop_TV1.uasset" 370
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_Watercan1_LP_defaultMat_BaseColor.uasset" 371
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Textures/Environment/Prop_Watercan1_LP_defaultMat_Roughness.uasset" 372
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Materials/Environment/Mat_Prop_Watercan1.uasset" 373
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Models/Environment/Prop_Watercan1.uasset" 374
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Dream_World/Dream_World_Platformer.umap" 375
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/ROADWAY_.uasset" 376
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/ROADWAY__Font.uasset" 377
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/PlaceholderBackgroundImage.uasset" 378
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/W_LevelSelect.uasset" 379
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/W_MainMenu.uasset" 380
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/MainMenu/MainMenu.umap" 381
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Dialogue/Dialogue_Trees/Whit_Start.uasset" 382
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 383
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Sugar_cube_34345345.uasset" 384
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Item_Box.uasset" 385
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/grass.uasset" 386
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/PT_Trash_StaticMesh.uasset" 387
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Item_Trash.uasset" 388
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Interact_Flower.uasset" 389
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/Flower.uasset" 390
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Blueprints/Sebastian/Inventory/Items/Item_WateringCan.uasset" 391
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/concrete.uasset" 392
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/WellPlaceHolder_StaticMesh.uasset" 393
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/WellPlaceHolder_Blueprint.uasset" 394
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/Flower_StaticMesh.uasset" 395
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/Level_TESTMAP.umap" 396
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/PT_DreamWorld.umap" 397
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bathtub.uasset" 398
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bathtub_Mat.uasset" 399
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bed_table.uasset" 400
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bed_table_Mat.uasset" 401
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/Bedking.uasset" 402
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/Bedking_Mat.uasset" 403
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bedtwin.uasset" 404
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bedtwin_Mat.uasset" 405
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bookcase.uasset" 406
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/bookcase_Mat.uasset" 407
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/chair.uasset" 408
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/chair_Mat.uasset" 409
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/chest.uasset" 410
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/chest_Mat.uasset" 411
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/desk.uasset" 412
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/desk_Mat.uasset" 413
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/deskchair.uasset" 414
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/deskchair_Mat.uasset" 415
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/dresser.uasset" 416
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/dresser_Mat.uasset" 417
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/fridge.uasset" 418
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/fridge_Mat.uasset" 419
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/kitchen_cabinets.uasset" 420
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/kitchen_cabinets_Mat.uasset" 421
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/kitchentable.uasset" 422
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/kitchentable_Mat.uasset" 423
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/oven.uasset" 424
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/oven_Mat.uasset" 425
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/pottedplant.uasset" 426
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/pottedplant_Mat.uasset" 427
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/racks.uasset" 428
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/racks_Mat.uasset" 429
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/radio.uasset" 430
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/radio_Mat.uasset" 431
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/shelves.uasset" 432
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/shelves_Mat.uasset" 433
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/sink.uasset" 434
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/sink_Mat.uasset" 435
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/smallsidetable.uasset" 436
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/smallsidetable_Mat.uasset" 437
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/sofa.uasset" 438
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/sofa_Mat.uasset" 439
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/toilet.uasset" 440
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/toilet_Mat.uasset" 441
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/tv.uasset" 442
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/tv_Mat.uasset" 443
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/vanity.uasset" 444
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/vanity_Mat.uasset" 445
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/worktable.uasset" 446
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/Labels/worktable_Mat.uasset" 447
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/house.uasset" 448
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/Oven.uasset" 449
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/road.uasset" 450
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/MATS/roof.uasset" 451
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/PT_HouseInteriorWB.umap" 452
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Prototype/TeleportPlayer.uasset" 453
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/PT_NeighborhoodWB_BuiltData.uasset" 454
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/PT_NeighborhoodWB.umap" 455
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 456
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 457
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/RampMaterial.uasset" 458
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 459
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 460
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 461
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 462
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 463
+"../../../../../../Users/Sebastian Saavedra/Documents/GitHub/Today/Today/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 464
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 465
+"../../../Engine/Content/Maps/Entry.umap" 466
